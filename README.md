@@ -1,4 +1,4 @@
-<b>100 Days of Code (Python) - Udemy</b>
+<h1><b>100 Days of Code (Python) - Udemy</b></h1>
 <hr>
 💡 Dr. Angela Yu's course, 100 Days of Code: The Complete Python Pro Bootcamp, aims to create fluent and well-rounded Python developers by exposing them to a wide array of Python programming concepts and techniques for 100 days straight. 
 
@@ -11,5 +11,6 @@ How to comply with industry best practices and standards as related to Python de
 🏁 Started on 17 June, 2026.
 Currently Learning
 <hr>
+
 👤 If anyone wants to do this course with me, please feel free to contact me on Telegram.
 
